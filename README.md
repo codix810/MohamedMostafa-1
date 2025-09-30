@@ -8,6 +8,7 @@
  <table>
   <tr>
     <td width="60%"  align="left">
+      <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
       <h1>👋 Hey, I'm Mohamed</h1>
       <p>
         I'm a passionate <strong>Front-End Developer</strong> who loves turning ideas into 
